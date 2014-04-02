@@ -2,3 +2,5 @@ components/
 bower_components/
 node_modules/
 build/
+.jshintrc
+.DS_STORE
